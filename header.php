@@ -13,7 +13,7 @@
                 <li class="nav-item"><a class="nav-link" href="veille.php">VEILLE</a></li>
                 <li class="nav-item"><a class="nav-link" href="experience.php">EXPÉRIENCES</a></li>
                 <li class="nav-item"><a class="nav-link" href="contacte.php">CONTACT</a></li>
-            </ul>
+            </ul> 
         </div>
     </div>
 </nav>
