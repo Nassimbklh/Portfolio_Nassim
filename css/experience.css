@@ -1,0 +1,15 @@
+.NinjaK{
+    background-image: url("../assets/img/NinjaKoncept.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.Leila{
+    background-image: url("../assets/img/logos/leila.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.ajuste{
+    margin-bottom: 77px;
+}

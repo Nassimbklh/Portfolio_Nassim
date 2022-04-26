@@ -1,0 +1,27 @@
+.Titre{
+    font-size: 25px;
+}
+.examBTS
+{
+    font-size: 12px;
+}
+.OPTION{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.SISR{
+    border: 3px solid #81b7e9;
+    width: 509px;
+    padding: 30px;
+    margin: 20px 0px;
+}
+.SLAM{
+    border:  3px solid #81b7e9;
+    width: 509px;
+    padding: 30px;
+    margin: 20px 0px;
+}
+.examBTS{
+    text-align: center;
+}
